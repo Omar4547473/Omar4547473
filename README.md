@@ -5,11 +5,11 @@
 -**Professional Summary:**
 -🔭Experienced data analyst specializing in transforming complex data into actionable strategic insights. I specialize in data cleaning, statistical analysis, and building interactive dashboards to support decision-making and improve organizational performance. I have a proven track record of enhancing operational efficiency and increasing sales through consumer behavior analysis and trend forecasting.
 -
--**Skills:**
--.Programming languages: SQL, Python (Pandas, NumPy, Seaborn, Matplotlib),Extract, Transform, Load (ETL).
--.Data visualization tools: Power BI, Tableau, Excel (Advanced).
--.Databases:SQL Server. 
--.Analysis methodologies: Statistical analysis, data cleaning, feature engineering, predictive model building.
+- **Skills:**
+- .Programming languages: SQL, Python (Pandas, NumPy, Seaborn, Matplotlib),Extract, Transform, Load (ETL).
+- .Data visualization tools: Power BI, Tableau, Excel (Advanced).
+- .Databases:SQL Server. 
+- .Analysis methodologies: Statistical analysis, data cleaning, feature engineering, predictive model building.
 -
 
 -**Education**
