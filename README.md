@@ -19,7 +19,7 @@
 
 
 -**📫 How to reach me:**
-- **mail**: omarmohmed.123.124@gmail.com
+- **Email**: om4547473@gmail.com
 - **Phone**: 01025486902 (Mobile)
 - **linkedin**: https://www.linkedin.com/in/omar-mohamed-756601393/?skipRedirect=true
 
